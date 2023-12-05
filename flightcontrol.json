@@ -12,7 +12,7 @@
           "name": "Next.js App",
           "buildType": "nixpacks",
           "cpu": 4,
-          "memory": 8,
+          "memory": 5,
           "containerInsights": false,
           "minInstances": 1,
           "maxInstances": 1,
